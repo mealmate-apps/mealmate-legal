@@ -1,5 +1,5 @@
 # **MealMate Legal**
 
-## [**Privacy Policy**](/privacy-policy)
+## [**Privacy Policy**](/privacy-policy.md)
 
-## [**Terms & Conditions**](/terms-and-conditions)
+## [**Terms & Conditions**](/terms-and-conditions.md)
